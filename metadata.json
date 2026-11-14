@@ -1,0 +1,6 @@
+{
+  "name": "토닥토닥 한글 타자 숲",
+  "description": "초등 5학년을 위한 즐겁고 교육적인 한글 타자 연습 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
